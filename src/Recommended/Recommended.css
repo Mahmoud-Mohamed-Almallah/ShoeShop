@@ -1,0 +1,43 @@
+.recommended-flex{
+    display: flex;
+    margin-left: 21.3rem;
+    
+}
+
+.recommended-title{
+    margin-left: 21.3rem;
+    margin-bottom: 35px;
+    margin-top: 60px;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+
+.btns{
+    padding: 10px 20px;
+    margin-right: 6px;
+    background: transparent;
+    border: none;
+    border: 0.6px solid #ccc;
+    border-radius: 5px;
+    color: #323232;
+    cursor: pointer;
+}
+
+.nav-container{
+    margin-right: 4rem;
+}
+
+/* .search-input{
+    width: 15rem;
+} */
+
+input{
+    padding: 12px 20px;
+    border: none;
+    background: #f7f6f6;
+    outline: none;
+    margin-right: 20px;
+    border-radius: 5px;
+    position: relative;
+    width: 15rem;
+}
